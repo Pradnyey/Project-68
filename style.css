@@ -1,0 +1,18 @@
+.my_nav_bar {
+    position:fixed;
+    top:0;
+    z-index: 99999;
+}
+.navbar-inverse {
+    background-color: black;
+    border-color: black;
+}
+
+body {
+    text-align: center;
+}
+button {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
